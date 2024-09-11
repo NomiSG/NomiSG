@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NomiSG
+- 👋 Hi, I’m Kismat Adhikari
 - 👀 I’m interested in Programming and skating  
 - 🌱 I’m currently learning Js and React
 - 💞️ I’m looking to collaborate on nah im good
